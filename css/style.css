@@ -104,3 +104,13 @@ h1 {
     color: #931e3f;
     font-weight: 600;
 }
+
+.wh-delivery{
+  width: 100%;
+  height: 100%;
+}
+
+.img-carousel {
+  height: 500px;
+  object-fit: cover;
+}
